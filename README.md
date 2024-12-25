@@ -51,4 +51,5 @@
 * [Predibase](https://docs.predibase.com/user-guide/fine-tuning/turbo_lora#how-to-train-with-lora) LoRA Tuning on top of custom weights based on Llama 3.x model/architecture
 * https://hub.docker.com/r/ollama/ollama - Deploy small language models locally
 * https://www.gradio.app/ - Fastest way to demo machine learning model with friendly web interface
+* https://www.anyscale.com/ - AI framework to fully utilize every GPU with RayTurbo 
 * www.3blue1brown.com - Visualization of machine learning
