@@ -48,6 +48,7 @@
 
 ## Third-Party
 * [Building A Generative AI Platform](https://huyenchip.com/2024/07/25/genai-platform.html) by Chip Huyen
+* [Predibase](https://docs.predibase.com/user-guide/fine-tuning/turbo_lora#how-to-train-with-lora) LoRA Tuning on top of custom weights based on Llama 3.x model/architecture
 * https://hub.docker.com/r/ollama/ollama - Deploy small language models locally
 * https://www.gradio.app/ - Fastest way to demo machine learning model with friendly web interface
 * www.3blue1brown.com - Visualization of machine learning
