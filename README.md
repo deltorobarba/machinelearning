@@ -12,6 +12,7 @@
 
 ## Infrastructure AI
 * [Ray on Vertex](https://github.com/deltorobarba/machinelearning/blob/main/ray.ipynb) with PyTorch for multi-node and multi-GPU training
+* [Nvidia](https://github.com/deltorobarba/machinelearning/blob/main/nvidia.ipynb) - Accelerators and Architectures
 * [vLLM for GPUs](https://cloud.google.com/kubernetes-engine/docs/tutorials/serve-gemma-gpu-vllm) with Gemma
 * [Google Hypercompute recipes](https://github.com/AI-Hypercomputer/gpu-recipes) Reproducible benchmark recipes for GPUs (Github)
 * [A3 supercomputers with NVIDIA H100 GPUs](https://cloud.google.com/blog/products/compute/introducing-a3-supercomputers-with-nvidia-h100-gpus?e=48754805)
