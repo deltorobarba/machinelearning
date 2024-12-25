@@ -49,4 +49,5 @@
 ## Third-Party
 * [Building A Generative AI Platform](https://huyenchip.com/2024/07/25/genai-platform.html) by Chip Huyen
 * https://hub.docker.com/r/ollama/ollama - Deploy small language models locally
+* https://www.gradio.app/ - Fastest way to demo machine learning model with friendly web interface
 * www.3blue1brown.com - Visualization of machine learning
