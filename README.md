@@ -42,8 +42,8 @@
 * [Pipeline](https://github.com/deltorobarba/machinelearning/blob/main/pipeline.ipynb) MLOPs AutoML tabular regression pipelines
 
 ## Google
-* [GenOps: the evolution of MLOps for gen AI](https://cloud.google.com/blog/products/ai-machine-learning/learn-how-to-build-and-scale-generative-ai-solutions-with-genops?hl=en&e=48754805)
-* [Google Codelabs](https://codelabs.developers.google.com/?category=aiandmachinelearning)
+* [GenOps: the evolution of MLOps for gen AI](https://cloud.google.com/blog/products/ai-machine-learning/learn-how-to-build-and-scale-generative-ai-solutions-with-genops?hl=en&e=48754805) blog post
+* [Google Codelabs](https://codelabs.developers.google.com/?category=aiandmachinelearning) developer repo guides
 * [Google Gemini](https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/sample-apps/e2e-gen-ai-app-starter-pack) - End-to-End Gen AI App Starter Pack
 * [NotebookLM](https://notebooklm.google/)
 * [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
