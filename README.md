@@ -12,7 +12,9 @@
 
 ## Infrastructure AI
 * [Ray on Vertex](https://github.com/deltorobarba/machinelearning/blob/main/ray.ipynb) with PyTorch for multi-node and multi-GPU training
-* [Google Hypercompute recipes](https://github.com/AI-Hypercomputer/gpu-recipes) Reproducible benchmark recipes for GPUs
+* [vLLM for GPUs](https://cloud.google.com/kubernetes-engine/docs/tutorials/serve-gemma-gpu-vllm) with Gemma
+* [Google Hypercompute recipes](https://github.com/AI-Hypercomputer/gpu-recipes) Reproducible benchmark recipes for GPUs (Github)
+* [A3 supercomputers with NVIDIA H100 GPUs](https://cloud.google.com/blog/products/compute/introducing-a3-supercomputers-with-nvidia-h100-gpus?e=48754805)
 
 ## Generative AI - Tasks
 * [Chaining](https://github.com/deltorobarba/machinelearning/blob/main/chaining.ipynb) 
@@ -49,6 +51,8 @@
 ## Third-Party
 * [Building A Generative AI Platform](https://huyenchip.com/2024/07/25/genai-platform.html) by Chip Huyen
 * [Predibase](https://docs.predibase.com/user-guide/fine-tuning/turbo_lora#how-to-train-with-lora) LoRA Tuning on top of custom weights based on Llama 3.x model/architecture
+* [kserve](https://kserve.github.io/website/latest/) Inference Platform on Kubernetes, built for highly scalable use cases
+* [triton](https://developer.nvidia.com/triton-inference-server) (Nvidia) designed to maximize performance of inference on GPUs and CPUs
 * https://hub.docker.com/r/ollama/ollama - Deploy small language models locally
 * https://www.gradio.app/ - Fastest way to demo machine learning model with friendly web interface
 * https://www.anyscale.com/ - AI framework to fully utilize every GPU with RayTurbo 
