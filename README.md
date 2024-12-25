@@ -36,7 +36,7 @@
 * [OCR](https://github.com/deltorobarba/machinelearning/blob/main/ocr.ipynb) Text recognition
 * [Pipeline](https://github.com/deltorobarba/machinelearning/blob/main/pipeline.ipynb) MLOPs AutoML tabular regression pipelines
 
-## Third-Party Assets: 
-* www.3blue1brown.com - Visualization of machine learning
-* https://hub.docker.com/r/ollama/ollama - Deploy small language models locally
+## Third-Party Assets
 * [Building A Generative AI Platform](https://huyenchip.com/2024/07/25/genai-platform.html) by Chip Huyen
+* https://hub.docker.com/r/ollama/ollama - Deploy small language models locally
+* www.3blue1brown.com - Visualization of machine learning
