@@ -11,26 +11,27 @@
 <br>
 
 ## Infrastructure AI
-* [Ray on Vertex](https://github.com/deltorobarba/machinelearning/blob/main/ray.ipynb) xxx
+* [Ray on Vertex](https://github.com/deltorobarba/machinelearning/blob/main/ray.ipynb) with PyTorch for multi-node and multi-GPU training
 
 ## Generative AI - Tasks
-* [Chaining](https://github.com/deltorobarba/machinelearning/blob/main/chaining.ipynb) xxx
-* [Caching](https://github.com/deltorobarba/machinelearning/blob/main/caching.ipynb) xxx
-* [Grounding](https://github.com/deltorobarba/machinelearning/blob/main/grounding.ipynb) xxx
-* [Reasoning](https://github.com/deltorobarba/machinelearning/blob/main/reasoning.ipynb) xxx
-* [Seed](https://github.com/deltorobarba/machinelearning/blob/main/seed.ipynb) xxx
-* [Evaluation](https://github.com/deltorobarba/machinelearning/blob/main/evaluation.ipynb) xxx
-* [Monitoring](https://github.com/deltorobarba/machinelearning/blob/main/monitoring.ipynb) xxx
-* [Optimizer](https://github.com/deltorobarba/machinelearning/blob/main/optimizer.ipynb) xxx
-* [Training](https://github.com/deltorobarba/machinelearning/blob/main/training.ipynb) xxx
+* [Chaining](https://github.com/deltorobarba/machinelearning/blob/main/chaining.ipynb) 
+* [Caching](https://github.com/deltorobarba/machinelearning/blob/main/caching.ipynb) 
+* [Grounding](https://github.com/deltorobarba/machinelearning/blob/main/grounding.ipynb) 
+* [Reasoning](https://github.com/deltorobarba/machinelearning/blob/main/reasoning.ipynb) 
+* [Seed](https://github.com/deltorobarba/machinelearning/blob/main/seed.ipynb) 
+* [Evaluation](https://github.com/deltorobarba/machinelearning/blob/main/evaluation.ipynb) 
+* [Monitoring](https://github.com/deltorobarba/machinelearning/blob/main/monitoring.ipynb) 
+* [Optimizer](https://github.com/deltorobarba/machinelearning/blob/main/optimizer.ipynb) 
+* [Training](https://github.com/deltorobarba/machinelearning/blob/main/training.ipynb) 
 
 ## Generative AI - Models
-* [Anthropic](https://github.com/deltorobarba/machinelearning/blob/main/anthropic.ipynb) xxx
-* [Gemma](https://github.com/deltorobarba/machinelearning/blob/main/gemma.ipynb) xxx
-* [Imagen](https://github.com/deltorobarba/machinelearning/blob/main/imagen.ipynb) xxx
-* [Llama](https://github.com/deltorobarba/machinelearning/blob/main/llama.ipynb) xxx
+* [Anthropic](https://github.com/deltorobarba/machinelearning/blob/main/anthropic.ipynb) 
+* [Gemma](https://github.com/deltorobarba/machinelearning/blob/main/gemma.ipynb) 
+* [Imagen](https://github.com/deltorobarba/machinelearning/blob/main/imagen.ipynb) 
+* [Llama](https://github.com/deltorobarba/machinelearning/blob/main/llama.ipynb) 
+* [Diffusion](https://github.com/deltorobarba/machinelearning/blob/main/llama.ipynb) 
 
 ## Predictive AI
 * [BigQuery](https://github.com/deltorobarba/machinelearning/blob/main/bigquery.ipynb) IoT and energy forecasting
-* [OCR](https://github.com/deltorobarba/machinelearning/blob/main/ocr.ipynb) xxx
+* [OCR](https://github.com/deltorobarba/machinelearning/blob/main/ocr.ipynb) Text recognition
 * [Pipeline](https://github.com/deltorobarba/machinelearning/blob/main/pipeline.ipynb) MLOPs AutoML tabular regression pipelines
