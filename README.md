@@ -33,4 +33,4 @@
 ## Predictive AI
 * [BigQuery](https://github.com/deltorobarba/machinelearning/blob/main/bigquery.ipynb) IoT and energy forecasting
 * [OCR](https://github.com/deltorobarba/machinelearning/blob/main/ocr.ipynb) xxx
-* [Pipeline](https://github.com/deltorobarba/machinelearning/blob/main/pipeline.ipynb) MLOPs
+* [Pipeline](https://github.com/deltorobarba/machinelearning/blob/main/pipeline.ipynb) MLOPs AutoML tabular regression pipelines
