@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_1000.png" alt="sciences">
+<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_3000.png" alt="sciences">
 
 <br>
 
