@@ -11,7 +11,11 @@
 <br>
 
 ## Infrastructure AI
+* [xxx](https://github.com/deltorobarba/astrophysics/blob/main/xxx.ipynb) xxx
 
 ## Generative AI
+* [xxx](https://github.com/deltorobarba/astrophysics/blob/main/xxx.ipynb) xxx
 
 ## Predictive AI
+* [BigQuery](https://github.com/deltorobarba/astrophysics/blob/main/bigquery.ipynb) IoT and energy forecasting
+* [Pipeline](https://github.com/deltorobarba/astrophysics/blob/main/pipeline.ipynb) MLOPs
