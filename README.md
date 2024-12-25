@@ -11,3 +11,7 @@
 <br>
 
 ## Infrastructure AI
+
+## Generative AI
+
+## Predictive AI
