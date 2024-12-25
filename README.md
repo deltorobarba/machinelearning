@@ -24,7 +24,7 @@
 * [Caching](https://github.com/deltorobarba/machinelearning/blob/main/caching.ipynb) 
 * [Grounding](https://github.com/deltorobarba/machinelearning/blob/main/grounding.ipynb)
 * [Finetuning](https://github.com/deltorobarba/machinelearning/blob/main/finetuning.ipynb)
-* [Reasoning](https://github.com/deltorobarba/machinelearning/blob/main/reasoning.ipynb) (LangChain)
+* [Reasoning](https://github.com/deltorobarba/machinelearning/blob/main/reasoning.ipynb)
 * [Seed](https://github.com/deltorobarba/machinelearning/blob/main/seed.ipynb) 
 * [Evaluation](https://github.com/deltorobarba/machinelearning/blob/main/evaluation.ipynb) 
 * [Monitoring](https://github.com/deltorobarba/machinelearning/blob/main/monitoring.ipynb) 
