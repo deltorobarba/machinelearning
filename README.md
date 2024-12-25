@@ -12,6 +12,7 @@
 
 ## Infrastructure AI
 * [Ray on Vertex](https://github.com/deltorobarba/machinelearning/blob/main/ray.ipynb) with PyTorch for multi-node and multi-GPU training
+* [Google Hypercompute recipes](https://github.com/AI-Hypercomputer/gpu-recipes) Reproducible benchmark recipes for GPUs
 
 ## Generative AI - Tasks
 * [Chaining](https://github.com/deltorobarba/machinelearning/blob/main/chaining.ipynb) 
@@ -36,7 +37,13 @@
 * [OCR](https://github.com/deltorobarba/machinelearning/blob/main/ocr.ipynb) Text recognition
 * [Pipeline](https://github.com/deltorobarba/machinelearning/blob/main/pipeline.ipynb) MLOPs AutoML tabular regression pipelines
 
-## Third-Party Assets
+## Google
+* [NotebookLM](https://notebooklm.google/)
+* [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
+* https://illuminate.google.com/home - Research Audio
+* [Google Gemini](https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/sample-apps/e2e-gen-ai-app-starter-pack) - End-to-End Gen AI App Starter Pack 
+
+## Third-Party
 * [Building A Generative AI Platform](https://huyenchip.com/2024/07/25/genai-platform.html) by Chip Huyen
 * https://hub.docker.com/r/ollama/ollama - Deploy small language models locally
 * www.3blue1brown.com - Visualization of machine learning
