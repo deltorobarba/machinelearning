@@ -27,6 +27,7 @@
 * [Training](https://github.com/deltorobarba/machinelearning/blob/main/training.ipynb) 
 
 ## Generative AI - Models
+* [Gemini 2.0](https://github.com/deltorobarba/machinelearning/blob/main/gemini2.ipynb) 
 * [Anthropic](https://github.com/deltorobarba/machinelearning/blob/main/anthropic.ipynb) 
 * [Gemma](https://github.com/deltorobarba/machinelearning/blob/main/gemma.ipynb) 
 * [Imagen](https://github.com/deltorobarba/machinelearning/blob/main/imagen.ipynb) 
