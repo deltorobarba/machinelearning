@@ -17,7 +17,8 @@
 ## Generative AI - Tasks
 * [Chaining](https://github.com/deltorobarba/machinelearning/blob/main/chaining.ipynb) 
 * [Caching](https://github.com/deltorobarba/machinelearning/blob/main/caching.ipynb) 
-* [Grounding](https://github.com/deltorobarba/machinelearning/blob/main/grounding.ipynb) 
+* [Grounding](https://github.com/deltorobarba/machinelearning/blob/main/grounding.ipynb)
+* [Finetuning](https://github.com/deltorobarba/machinelearning/blob/main/finetuning.ipynb)
 * [Reasoning](https://github.com/deltorobarba/machinelearning/blob/main/reasoning.ipynb) LangChain on Vertex AI
 * [Seed](https://github.com/deltorobarba/machinelearning/blob/main/seed.ipynb) 
 * [Evaluation](https://github.com/deltorobarba/machinelearning/blob/main/evaluation.ipynb) 
@@ -41,6 +42,7 @@
 * [NotebookLM](https://notebooklm.google/)
 * [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
 * https://illuminate.google.com/home - Research Audio
+* [Google Codelabs](https://codelabs.developers.google.com/?category=aiandmachinelearning)
 * [Google Gemini](https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/sample-apps/e2e-gen-ai-app-starter-pack) - End-to-End Gen AI App Starter Pack 
 
 ## Third-Party
