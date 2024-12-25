@@ -15,6 +15,9 @@
 * [vLLM for GPUs](https://cloud.google.com/kubernetes-engine/docs/tutorials/serve-gemma-gpu-vllm) with Gemma
 * [Google Hypercompute recipes](https://github.com/AI-Hypercomputer/gpu-recipes) Reproducible benchmark recipes for GPUs (Github)
 * [A3 supercomputers with NVIDIA H100 GPUs](https://cloud.google.com/blog/products/compute/introducing-a3-supercomputers-with-nvidia-h100-gpus?e=48754805)
+* [Running HuggingFace Llama Training on Cloud TPUs](https://github.com/pytorch-tpu/transformers/blob/alanwaketan/flash_attention/USER_GUIDE.md)
+* [Reproducibility](https://github.com/gclouduniverse/reproducibility) of specific workloads of training and serving
+* [HuggingFace Llama 2 7B Training on Cloud TPUs](https://github.com/pytorch-tpu/transformers/blob/alanwaketan/flash_attention/USER_GUIDE.md) 
 
 ## Generative AI - Tasks
 * [Chaining](https://github.com/deltorobarba/machinelearning/blob/main/chaining.ipynb) 
