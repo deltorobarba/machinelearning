@@ -52,6 +52,7 @@
 ## Third-Party
 * [Building A Generative AI Platform](https://huyenchip.com/2024/07/25/genai-platform.html) by Chip Huyen
 * [Predibase](https://docs.predibase.com/user-guide/fine-tuning/turbo_lora#how-to-train-with-lora) LoRA Tuning on top of custom weights based on Llama 3.x model/architecture
+* https://replicate.com/ - most famous platform to fine-tuning models 
 * [kserve](https://kserve.github.io/website/latest/) Inference Platform on Kubernetes, built for highly scalable use cases
 * [triton](https://developer.nvidia.com/triton-inference-server) (Nvidia) designed to maximize performance of inference on GPUs and CPUs
 * https://hub.docker.com/r/ollama/ollama - Deploy small language models locally
