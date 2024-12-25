@@ -17,7 +17,7 @@
 * [Chaining](https://github.com/deltorobarba/machinelearning/blob/main/chaining.ipynb) 
 * [Caching](https://github.com/deltorobarba/machinelearning/blob/main/caching.ipynb) 
 * [Grounding](https://github.com/deltorobarba/machinelearning/blob/main/grounding.ipynb) 
-* [Reasoning](https://github.com/deltorobarba/machinelearning/blob/main/reasoning.ipynb) 
+* [Reasoning](https://github.com/deltorobarba/machinelearning/blob/main/reasoning.ipynb) LangChain on Vertex AI
 * [Seed](https://github.com/deltorobarba/machinelearning/blob/main/seed.ipynb) 
 * [Evaluation](https://github.com/deltorobarba/machinelearning/blob/main/evaluation.ipynb) 
 * [Monitoring](https://github.com/deltorobarba/machinelearning/blob/main/monitoring.ipynb) 
