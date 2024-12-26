@@ -28,9 +28,9 @@
 * [Reasoning](https://github.com/deltorobarba/machinelearning/blob/main/reasoning.ipynb)
 * [Seed](https://github.com/deltorobarba/machinelearning/blob/main/seed.ipynb) 
 * [Evaluation](https://github.com/deltorobarba/machinelearning/blob/main/evaluation.ipynb) 
-* [Monitoring](https://github.com/deltorobarba/machinelearning/blob/main/monitoring.ipynb) 
-* [Optimizer](https://github.com/deltorobarba/machinelearning/blob/main/optimizer.ipynb) 
-* [Training](https://github.com/deltorobarba/machinelearning/blob/main/training.ipynb) 
+* [Monitoring](https://github.com/deltorobarba/machinelearning/blob/main/monitoring.ipynb)
+* [LLM Journey](https://github.com/deltorobarba/machinelearning/blob/main/slides.pdf)
+
 
 ## Generative AI - Models
 * [Gemini 2.0](https://github.com/deltorobarba/machinelearning/blob/main/gemini2.ipynb) 
