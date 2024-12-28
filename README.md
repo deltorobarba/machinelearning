@@ -56,12 +56,13 @@
 ## Third-Party
 * [Building A Generative AI Platform](https://huyenchip.com/2024/07/25/genai-platform.html) by Chip Huyen
 * [Predibase](https://docs.predibase.com/user-guide/fine-tuning/turbo_lora#how-to-train-with-lora) LoRA Tuning on top of custom weights based on Llama 3.x model/architecture
-* [replicate](https://replicate.com/) - most famous platform to fine-tuning models
+* [replicate](https://replicate.com/) - platform to fine-tuning models
 * [unsloth](https://github.com/unslothai/unsloth) fine-tuning of LLMs & Vision LMs 2.2x faster and use 80% less VRAM
+  * [QLoRA](https://medium.com/@dillipprasad60/qlora-explained-a-deep-dive-into-parametric-efficient-fine-tuning-in-large-language-models-llms-c1a4794b1766)
+  * [PEFT, QLORA with unsloth](https://medium.com/@tejpal.abhyuday/optimizing-language-model-fine-tuning-with-peft-qlora-integration-and-training-time-reduction-04df39dca72b)
 * [kserve](https://kserve.github.io/website/latest/) Inference Platform on Kubernetes, built for highly scalable use cases
 * [triton](https://developer.nvidia.com/triton-inference-server) (Nvidia) designed to maximize performance of inference on GPUs and CPUs
 * [ollama](https://hub.docker.com/r/ollama/ollama) - Deploy small language models locally
 * [gradio](https://www.gradio.app/) - Fastest way to demo machine learning model with friendly web interface
 * [anyscale](https://www.anyscale.com/) - AI framework to fully utilize every GPU with RayTurbo
-* [QLoRA](https://medium.com/@dillipprasad60/qlora-explained-a-deep-dive-into-parametric-efficient-fine-tuning-in-large-language-models-llms-c1a4794b1766)
 * www.3blue1brown.com - Visualization of machine learning
