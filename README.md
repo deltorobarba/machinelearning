@@ -62,5 +62,6 @@
 * [triton](https://developer.nvidia.com/triton-inference-server) (Nvidia) designed to maximize performance of inference on GPUs and CPUs
 * [ollama](https://hub.docker.com/r/ollama/ollama) - Deploy small language models locally
 * [gradio](https://www.gradio.app/) - Fastest way to demo machine learning model with friendly web interface
-* [anyscale](https://www.anyscale.com/) - AI framework to fully utilize every GPU with RayTurbo 
+* [anyscale](https://www.anyscale.com/) - AI framework to fully utilize every GPU with RayTurbo
+* [QLoRA](https://medium.com/@dillipprasad60/qlora-explained-a-deep-dive-into-parametric-efficient-fine-tuning-in-large-language-models-llms-c1a4794b1766)
 * www.3blue1brown.com - Visualization of machine learning
