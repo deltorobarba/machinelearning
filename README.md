@@ -65,4 +65,5 @@
 * [ollama](https://hub.docker.com/r/ollama/ollama) - Deploy small language models locally
 * [gradio](https://www.gradio.app/) - Fastest way to demo machine learning model with friendly web interface
 * [anyscale](https://www.anyscale.com/) - AI framework to fully utilize every GPU with RayTurbo
+* [LlamaIndex](https://docs.llamaindex.ai/en/stable/) Indexing and querying data. Features like PageWise indexing and auto-merging ensure accurate retrieval of relevant information.
 * www.3blue1brown.com - Visualization of machine learning
