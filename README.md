@@ -10,6 +10,12 @@
 
 <br>
 
+* https://jax-ml.github.io/scaling-book/
+* https://github.com/GoogleCloudPlatform/generative-ai
+* https://cloud.google.com/transform/top-five-gen-ai-tuning-use-cases-gemini-hundreds-of-orgs?e=48754805&hl=en
+* https://research.google/blog/chain-of-agents-large-language-models-collaborating-on-long-context-tasks/
+* https://www.arxiv.org/abs/2501.18708
+
 ## Infrastructure AI
 * [Ray on Vertex](https://github.com/deltorobarba/machinelearning/blob/main/ray.ipynb) with PyTorch for multi-node and multi-GPU training
 * [Nvidia](https://github.com/deltorobarba/machinelearning/blob/main/nvidia.ipynb) - Accelerators and Architectures
